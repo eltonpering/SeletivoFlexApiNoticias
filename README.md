@@ -21,7 +21,9 @@ JSon:
 #### ------ Ediçao de Notícias  ------
 
 Tipo requisição: POST
+
 Url: (https://localhost:44331/api/values/Editar)
+
 JSon:
       `{
         "id_autor": 1,
@@ -33,7 +35,9 @@ JSon:
 #### ------ Exclusão de Notícias  ------
 
 Tipo requisição: DELETE
+
 Url: (https://localhost:44331/api/values/Deletar)
+
 JSon:
     `{
 	    "id_noticia": 1
@@ -42,13 +46,16 @@ JSon:
 #### ------ Listar todas as Notícias  ------
 
 Tipo requisição: GET
+
 Url: (https://localhost:44331/api/values/Listar)
 
 
 #### ------ Pesquisar a Notícia por texto nos campos Autor, Titulo e Texto  ------
 
 Tipo requisição: GET
+
 Url: (https://localhost:44331/api/values/Pesquisar)
+
 JSon:
     `{
 	    "Texto": "Texto noticia" 
