@@ -4,7 +4,7 @@ Foi utilizado o aplicativo Postman para testes.
 
 Segue as parametrizações como exemplo:
 
--Cadastro de Notícias
+ ------ Cadastro de Notícias  ------
 
 Tipo requisição: POST
 Url: https://localhost:44331/api/values/Cadastrar
@@ -15,7 +15,8 @@ JSon:
         "Texto": "Texto noticia" 
       }
       
-- Ediçao de Notícias
+      
+ ------ Ediçao de Notícias  ------
 
 Tipo requisição: POST
 Url: https://localhost:44331/api/values/Editar
@@ -26,7 +27,8 @@ JSon:
         "Texto": "Texto noticia 2" 
       }
       
- - Exclusão de Notícias
+      
+ ------ Exclusão de Notícias  ------
 
 Tipo requisição: DELETE
 Url: https://localhost:44331/api/values/Deletar
@@ -35,13 +37,13 @@ JSon:
 	    "id_noticia": 1
     }
     
- - Listar todas as Notícias
+ ------ Listar todas as Notícias  ------
 
 Tipo requisição: GET
 Url: https://localhost:44331/api/values/Listar
 
 
- - Pesquisar a Notícia por texto nos campos Autor, Titulo e Texto
+ ------ Pesquisar a Notícia por texto nos campos Autor, Titulo e Texto  ------
 
 Tipo requisição: GET
 Url: https://localhost:44331/api/values/Pesquisar
