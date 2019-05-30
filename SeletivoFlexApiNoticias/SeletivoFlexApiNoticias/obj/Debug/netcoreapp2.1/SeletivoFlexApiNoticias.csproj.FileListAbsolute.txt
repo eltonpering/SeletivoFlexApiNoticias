@@ -1,0 +1,14 @@
+C:\Users\elton\source\repos\SeletivoFlexApiNoticias\SeletivoFlexApiNoticias\bin\Debug\netcoreapp2.1\SeletivoFlexApiNoticias.deps.json
+C:\Users\elton\source\repos\SeletivoFlexApiNoticias\SeletivoFlexApiNoticias\bin\Debug\netcoreapp2.1\SeletivoFlexApiNoticias.runtimeconfig.json
+C:\Users\elton\source\repos\SeletivoFlexApiNoticias\SeletivoFlexApiNoticias\bin\Debug\netcoreapp2.1\SeletivoFlexApiNoticias.runtimeconfig.dev.json
+C:\Users\elton\source\repos\SeletivoFlexApiNoticias\SeletivoFlexApiNoticias\bin\Debug\netcoreapp2.1\SeletivoFlexApiNoticias.dll
+C:\Users\elton\source\repos\SeletivoFlexApiNoticias\SeletivoFlexApiNoticias\bin\Debug\netcoreapp2.1\SeletivoFlexApiNoticias.pdb
+C:\Users\elton\source\repos\SeletivoFlexApiNoticias\SeletivoFlexApiNoticias\obj\Debug\netcoreapp2.1\SeletivoFlexApiNoticias.csprojAssemblyReference.cache
+C:\Users\elton\source\repos\SeletivoFlexApiNoticias\SeletivoFlexApiNoticias\obj\Debug\netcoreapp2.1\SeletivoFlexApiNoticias.csproj.CoreCompileInputs.cache
+C:\Users\elton\source\repos\SeletivoFlexApiNoticias\SeletivoFlexApiNoticias\obj\Debug\netcoreapp2.1\SeletivoFlexApiNoticias.RazorAssemblyInfo.cache
+C:\Users\elton\source\repos\SeletivoFlexApiNoticias\SeletivoFlexApiNoticias\obj\Debug\netcoreapp2.1\SeletivoFlexApiNoticias.RazorAssemblyInfo.cs
+C:\Users\elton\source\repos\SeletivoFlexApiNoticias\SeletivoFlexApiNoticias\obj\Debug\netcoreapp2.1\SeletivoFlexApiNoticias.AssemblyInfoInputs.cache
+C:\Users\elton\source\repos\SeletivoFlexApiNoticias\SeletivoFlexApiNoticias\obj\Debug\netcoreapp2.1\SeletivoFlexApiNoticias.AssemblyInfo.cs
+C:\Users\elton\source\repos\SeletivoFlexApiNoticias\SeletivoFlexApiNoticias\obj\Debug\netcoreapp2.1\SeletivoFlexApiNoticias.RazorTargetAssemblyInfo.cache
+C:\Users\elton\source\repos\SeletivoFlexApiNoticias\SeletivoFlexApiNoticias\obj\Debug\netcoreapp2.1\SeletivoFlexApiNoticias.dll
+C:\Users\elton\source\repos\SeletivoFlexApiNoticias\SeletivoFlexApiNoticias\obj\Debug\netcoreapp2.1\SeletivoFlexApiNoticias.pdb
