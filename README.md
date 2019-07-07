@@ -1,62 +1,62 @@
-### Solução API Notícias
+### News API Solution
 
-Foi utilizado o aplicativo Postman para testes.
+The Postman application for testing was used.
 
-Segue as parametrizações como exemplo:
+Here are the parameterizations as an example:
 
-#### ------ Cadastro de Notícias  ------
+#### ------ News Registration ------
 
-Tipo requisição: POST
+Type request: POST
 
-Url: (https://localhost:44331/api/values/Cadastrar)
-
-JSon:
-      `{
-        "id_autor": 1,
-        "Titulo": "Titulo Testes",
-        "Texto": "Texto noticia" 
-      }` 
-      
-      
-#### ------ Ediçao de Notícias  ------
-
-Tipo requisição: POST
-
-Url: (https://localhost:44331/api/values/Editar)
+Url: (https: // localhost: 44331 / api / values ​​/ Register)
 
 JSon:
-      `{
-        "id_autor": 1,
-        "Titulo": "Titulo Testes 2",
-        "Texto": "Texto noticia 2" 
-      }`
-      
-      
-#### ------ Exclusão de Notícias  ------
+      `{
+        "author_id": 1,
+        "Title": "Title Tests",
+        "Text": "New text"
+      } `
+      
+      
+#### ------ News Release ------
 
-Tipo requisição: DELETE
+Type request: POST
 
-Url: (https://localhost:44331/api/values/Deletar)
-
-JSon:
-    `{
-	    "id_noticia": 1
-    }`
-    
-#### ------ Listar todas as Notícias  ------
-
-Tipo requisição: GET
-
-Url: (https://localhost:44331/api/values/Listar)
-
-
-#### ------ Pesquisar a Notícia por texto nos campos Autor, Titulo e Texto  ------
-
-Tipo requisição: GET
-
-Url: (https://localhost:44331/api/values/Pesquisar)
+Url: (https: // localhost: 44331 / api / values ​​/ Edit)
 
 JSon:
-    `{
-	    "Texto": "Texto noticia" 
-    }`
+      `{
+        "author_id": 1,
+        "Title": "Title Tests 2",
+        "Text": "Text noticia 2"
+      } `
+      
+      
+#### ------ News Exclusion ------
+
+Type request: DELETE
+
+Url: (https: // localhost: 44331 / api / values ​​/ Delete)
+
+JSon:
+    `{
+"id_noticia": 1
+    } `
+    
+#### ------ List All News ------
+
+Request Type: GET
+
+Url: (https: // localhost: 44331 / api / values ​​/ List)
+
+
+#### ------ Search the News by text in the fields Author, Title and Text ------
+
+Request Type: GET
+
+Url: (https: // localhost: 44331 / api / values ​​/ Search)
+
+JSon:
+    `{
+"Text": "New text"
+    } `
